@@ -1,6 +1,6 @@
 import "./styles.css";
 
-import { Grizzy } from "./Grizzy.jsx";
+import { Grizzy } from "./Grizzy";
 
 export default function App() {
 return (
